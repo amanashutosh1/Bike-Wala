@@ -1,0 +1,46 @@
+ .bread{
+   background-color: rgba(46, 2, 26, 0.937);
+
+ }
+
+ .bread h1{
+   color: #fff;
+   text-align: center;
+   font-size: 1.9rem;
+   padding: 25px 0px;
+
+ }
+
+ .bx_shadow
+  {
+    box-shadow: 1px 1px 7px 1px #cdcdcd;
+    padding: 30px;
+  }
+ 
+  .admin a {
+    text-decoration: none;
+    font-weight: 600;
+  }
+
+  .adminMain p{
+    margin-bottom: 8px;
+  }
+
+  ul li a{
+    text-decoration: none;
+    color: #000;
+    font-weight: 600;
+
+  }
+
+  ul li a:hover{
+    color: #300979;   
+  }
+  ul{
+    list-style: none;
+    
+  }
+
+  ul li{
+    margin-bottom: 13px;
+  }

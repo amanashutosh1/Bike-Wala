@@ -1,0 +1,17 @@
+/* Full background */
+.admin-bg {
+  background: url("https://images.unsplash.com/photo-1521791136064-7986c2920216") no-repeat center center/cover;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* White box for login form */
+.login-container {
+  background: rgba(255, 255, 255, 0.9);
+  padding: 30px;
+  border-radius: 12px;
+  width: 350px;
+  box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.3);
+}
